@@ -1,1 +1,8 @@
 # projet
+Le système de réservation de bus est une plateforme complète offrant aux utilisateurs une gamme étendue de fonctionnalités pour simplifier et améliorer leur expérience de voyage. Les principales tâches prises en charge par le système comprennent l'affichage détaillé des bus disponibles, permettant aux utilisateurs de choisir en toute connaissance de cause leur trajet en fonction des lieux de départ et d'arrivée, des dates, des prix des billets et du nombre de places disponibles.
+
+Une fois le choix du bus effectué, les utilisateurs ont la possibilité de réserver leurs billets en fournissant les informations nécessaires, telles que le nombre de passagers et les détails des voyageurs. L'historique complet des réservations antérieures est également disponible, offrant une visibilité totale sur les voyages précédents.
+
+Le système permet non seulement la réservation initiale mais offre également des fonctionnalités avancées telles que la possibilité de modifier les détails d'une réservation existante, que ce soit la date du voyage ou le nombre de billets réservés. De plus, les utilisateurs peuvent annuler une réservation préalablement effectuée, libérant ainsi les places réservées pour d'autres voyageurs.
+
+Le système intègre une gestion robuste des erreurs, informant les utilisateurs en cas de problèmes, et stocke toutes les données essentielles dans des fichiers texte, constituant ainsi une base de données simple mais efficace. L'interface conviviale assure une expérience utilisateur agréable et intuitive, faisant du système de réservation de bus un outil essentiel pour planifier et gérer efficacement les voyages en bus.
