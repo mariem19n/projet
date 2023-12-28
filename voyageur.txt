@@ -1,0 +1,3 @@
+aaa,bbbb,7878,0,1,pppp
+nom,prenom,6565,0,1,klkl 
+guesmi,mariem,789456,0,1,motdepasse 
